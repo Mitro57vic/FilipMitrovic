@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip Mitrovic</h1>
 <h3 align="center">A 17-year-old computer science enthusiast and student at Kantonsschule Baden with a strong interest in AI, cybersecurity, and backend development. Driven by a passion for technology, always eager to deepen my knowledge and skills in programming, data security, and advanced algorithms.</h3>
 
-- 🌱 I’m currently learning **C++, Cyber Security and Artificial Intelligence with Python**
+- 🌱 I’m currently learning **Cyber Security and React**
 
 - 👨‍💻 A lot of my projects are available at [https://portfolio.bbbaden.ch/user/f-mitrovic-inf22/bilder-verschl-sseln-programm](https://portfolio.bbbaden.ch/user/f-mitrovic-inf22/bilder-verschl-sseln-programm)
 
